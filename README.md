@@ -65,3 +65,6 @@ Dashboard preview: (DashboardPreview)-(https://github.com/OQMKa/FlipkartSampleTe
 
 This project demonstrates the ability to convert raw e-commerce order data into actionable business intelligence using Power BI.
 It showcases strong skills in data analytics, visualization, and dashboard storytelling.
+
+<img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/e108e2ff-79c8-4463-9703-5a58db3ef7d1" />
+
