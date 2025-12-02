@@ -57,6 +57,10 @@ Download the Power BI .pbix file
 Open it using Power BI Desktop
 Explore the report using slicers and interactive visuals.
 
+Screenshot / Demo
+Shows how the Dashboard looks like.
+Dashboard preview: (DashboardPreview)-(https://github.com/OQMKa/FlipkartSampleTemplate/blob/main/PowerBiFlipkartSample.png)
+
 📝 Summary
 
 This project demonstrates the ability to convert raw e-commerce order data into actionable business intelligence using Power BI.
